@@ -1,3 +1,9 @@
+gz-cmake6 (6.0.0~pre1-2~noble) noble; urgency=medium
+
+  * gz-cmake6 6.0.0~pre1-2 release
+
+ -- Addisu Z. Taddese <addisuzt@intrinsic.ai>  Wed, 19 Aug 2026 16:39:57 +0000
+
 gz-cmake6 (6.0.0~pre1-1~noble) noble; urgency=medium
 
   * gz-cmake6 6.0.0~pre1-1 release
