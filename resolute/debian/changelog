@@ -1,3 +1,9 @@
+gz-cmake6 (6.0.0~pre2-1~resolute) resolute; urgency=medium
+
+  * gz-cmake6 6.0.0~pre2-1 release
+
+ -- Addisu Z. Taddese <addisuzt@intrinsic.ai>  Tue, 06 Oct 2026 20:52:51 +0000
+
 gz-cmake6 (6.0.0~pre1-2~resolute) resolute; urgency=medium
 
   * gz-cmake6 6.0.0~pre1-2 release
